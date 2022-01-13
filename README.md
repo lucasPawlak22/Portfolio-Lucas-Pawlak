@@ -8,7 +8,7 @@ Project name: Team Nourish
 Project group:
 - Florian Rumpold
 - Marteen DeJoonge
-- Lucas Palak
+- Lucas Pawlak
 
 # Introduction
 
