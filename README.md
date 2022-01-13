@@ -305,10 +305,10 @@ I helped in every part of the research paper of course but my main contribution 
 
 <details><summary>List of Notebooks</summary>
 
-- Python file to retrieve sounds to make the new dataset [here](NoteBook/dataFrame.py)
-- Python file for the learning labs about data preprocessing [here](NoteBook/dataVizualisation.py)
-- NoteBook about a small tutorial to learn how to work with audio [here](NoteBook/tutoAudio.ipynb)
-- Modified python file to retrieve all of the different audio file for our dataset, made by Aoife McDonagh [here](NoteBook/process.py)
+- Python file to retrieve sounds to make the new dataset [here](dataFrame.py)
+- Python file for the learning labs about data preprocessing [here](dataVizualisation.py)
+- NoteBook about a small tutorial to learn how to work with audio [here](tutoAudio.ipynb)
+- Modified python file to retrieve all of the different audio file for our dataset, made by Aoife McDonagh [here](process.py)
 
 </details>
 
