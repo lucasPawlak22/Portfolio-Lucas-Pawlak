@@ -19,7 +19,7 @@ It'll be used to give a certain "quality of life" score to help the caretaker to
 
 <details><summary>Progress in DataCamp can be found here</summary>
 
-![](Images/datacampProgress.png)
+![](datacampProgress.png)
 
 </details>
 
@@ -205,10 +205,10 @@ Considering this, our best model for detecting chewing and drinking sounds is a
 Convolutional Neural Network with 2 Convolutional layers and 3 linear layers.
 ```
 - The accuracy score:
-![](Images/cnnAccuracy.png)
+![](cnnAccuracy.png)
 
 - The confusion matrix:
-![](Images/confusionMatrix.png)
+![](confusionMatrix.png)
  
  These two visualisation were made by Florian.
 
@@ -295,9 +295,9 @@ I helped at making the powerpoint in every presentation.
 <details><summary>Writing paper </summary>
 
 I helped in every part of the research paper of course but my main contribution in it was:
-- The introduction (which was improved by Marteen, another member of the group) [here](Images/intro.png)
-- Data preprocessing [here](Images/preprocessing.png)
-- Conclusion (which was further improved by Florian, another member of the group too) [old](Images/oldConclusion.png) and the [new](Images/newConclusion.png)
+- The introduction (which was improved by Marteen, another member of the group) [here](intro.png)
+- Data preprocessing [here](preprocessing.png)
+- Conclusion (which was further improved by Florian, another member of the group too) [old](oldConclusion.png) and the [new](newConclusion.png)
 - Recommendations [here](recommendation.png)
 
 ---
@@ -314,6 +314,6 @@ I helped in every part of the research paper of course but my main contribution 
 
 <details><summary>Completed Scrum Tasks</summary>
 
-![](Images/scrumLucas.png)
+![](scrumLucas.png)
 
 </details>
